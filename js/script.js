@@ -193,6 +193,8 @@ async function displayShowDetails() {
   document.querySelector('#show-details').appendChild(div)
 }
 
+
+//new comment
 // Display Backdrop on details page
 function displayBackgroundImage(type, backgroundPath) {
   const overlayDiv = document.createElement('div')
